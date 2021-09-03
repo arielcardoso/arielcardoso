@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-<p>📖 I’m currently learning React + Redux.</p>
-<p>💎 I’m currently working on UI/UX Projects.</p>
+📖 I’m currently learning React + Redux.
+
+💎 I’m currently working on UI/UX Projects.
 
 <!--
 **arielcardoso/arielcardoso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,8 +22,8 @@ Here are some ideas to get you started:
 <br/>
 <div>
   <a href="https://github.com/arielcardoso" >
-    <img height="178em" src="https://github-readme-stats.vercel.app/api?username=arielcardoso&show_icons=true&hide=stars&theme=vue-dark&include_all_commits=true&count_private=true"  />
-    <img height="178em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arielcardoso&layout=compact&langs_count=8&theme=vue-dark"  />
+    <img height="175em" src="https://github-readme-stats.vercel.app/api?username=arielcardoso&show_icons=true&hide=stars&theme=vue-dark&include_all_commits=true&count_private=true"  />
+    <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arielcardoso&layout=compact&langs_count=8&theme=vue-dark"  />
   </a>
 </div>
 
@@ -38,13 +39,5 @@ Here are some ideas to get you started:
   <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" height="25" />
 </div>
 
-<!-- 
-<br/>
-<div style="display:inline-block">
-  <a href="https://linkedin.com/in/arielcardoso" target="_blank" >
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-</div>
--->
 
 ![Snake animation](https://github.com/arielcardoso/arielcardoso/blob/output/github-contribution-grid-snake.svg)
