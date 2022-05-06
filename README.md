@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-📖 I’m currently learning React + Redux.
+📖 Currently learning more about React + Redux.
 
-💎 I’m currently working on UI/UX Projects.
+💎 Working on UI Projects and DesignOps.
 
 <!--
 **arielcardoso/arielcardoso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
