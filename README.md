@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-📖 Currently learning more about React + Redux.
+📖 Currently learning Flutter.
 
 💎 Working on UI Projects and DesignOps.
 
